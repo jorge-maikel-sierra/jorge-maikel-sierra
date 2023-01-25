@@ -6,7 +6,7 @@ ________________________________________________________________________________
 Soy un Developer Frontend y Backend apasionado por el desarrollo web, Algunas tecnologías con las que disfruto trabajar incluyen ReactJS, Jamstack (JavaScript, API + Markup) y GraphQL, además de Framework como symfony. Empece desarrollando aplicaciones con WordPress, luego me pasea a Drupal y hoy en día estoy construyendo aplicaciones con Symfony.
 
 ## Encuéntrame en la web 🌎
-- [Blog personal](http://jorgesierra.online "Blog personal")
+- [Blog personal](http://jorgesierra.dev "Blog personal")
 
 ## Redes sociales 
 
