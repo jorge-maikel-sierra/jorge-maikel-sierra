@@ -11,16 +11,19 @@ Desarrollador Full Stack enfocado en soluciones eficientes y directas al grano. 
 ## 💻 Stack Tecnológico
 
 ### Frontend
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Backend
+
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### CMS & Tools
+
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Drupal](https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -83,5 +86,3 @@ Desarrollador Full Stack enfocado en soluciones eficientes y directas al grano. 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jorge-maikel-sierra&label=Visitas%20al%20Perfil&color=0e75b6&style=flat" alt="Contador de visitas" />
 </p>
-
-
