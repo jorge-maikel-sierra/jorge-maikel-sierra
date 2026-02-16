@@ -40,17 +40,31 @@ Desarrollador Full Stack enfocado en soluciones eficientes y directas al grano. 
 
 ---
 
-## 📊 Mi Actividad en GitHub
+## 📊 Estadísticas de GitHub
 
-![Profile Views](https://komarev.com/ghpvc/?username=jorge-maikel-sierra&color=0e75b6&style=for-the-badge)
-![Repos](https://img.shields.io/badge/Repositorios-Ver%20en%20GitHub-blue?style=for-the-badge&logo=github)
-![Contributions](https://img.shields.io/badge/Open%20Source-Contribuidor-green?style=for-the-badge)
+<div align="center">
 
-### 🔥 Lenguajes Principales
-- **JavaScript** - Desarrollo Frontend y Full Stack
-- **PHP** - Backend con Laravel
-- **SQL** - Diseño y optimización de bases de datos
-- **HTML/CSS** - Interfaces web modernas
+![Profile Views](https://komarev.com/ghpvc/?username=jorge-maikel-sierra&label=Visitas&color=F7DF1E&style=for-the-badge)
+![GitHub Followers](https://img.shields.io/github/followers/jorge-maikel-sierra?label=Seguidores&style=for-the-badge&color=F7DF1E&logo=github)
+![GitHub Stars](https://img.shields.io/github/stars/jorge-maikel-sierra?label=Stars&style=for-the-badge&color=F7DF1E&logo=github)
+
+</div>
+
+### 🔥 Lenguajes y Tecnologías
+
+<div align="center">
+
+**JavaScript** • **PHP** • **Laravel** • **MySQL** • **HTML5** • **CSS3** • **WordPress** • **Drupal** • **Git**
+
+</div>
+
+### 💻 Stack Principal
+
+- **Frontend**: JavaScript, HTML5, CSS3
+- **Backend**: PHP, Laravel  
+- **Bases de Datos**: MySQL
+- **CMS**: WordPress, Drupal
+- **Control de Versiones**: Git
 
 ---
 
