@@ -40,11 +40,17 @@ Desarrollador Full Stack enfocado en soluciones eficientes y directas al grano. 
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 Mi Actividad en GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jorge-maikel-sierra&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+![Profile Views](https://komarev.com/ghpvc/?username=jorge-maikel-sierra&color=0e75b6&style=for-the-badge)
+![Repos](https://img.shields.io/badge/Repositorios-Ver%20en%20GitHub-blue?style=for-the-badge&logo=github)
+![Contributions](https://img.shields.io/badge/Open%20Source-Contribuidor-green?style=for-the-badge)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jorge-maikel-sierra&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+### 🔥 Lenguajes Principales
+- **JavaScript** - Desarrollo Frontend y Full Stack
+- **PHP** - Backend con Laravel
+- **SQL** - Diseño y optimización de bases de datos
+- **HTML/CSS** - Interfaces web modernas
 
 ---
 
