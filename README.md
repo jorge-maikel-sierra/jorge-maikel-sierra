@@ -8,8 +8,8 @@
 <!-- Optimized banner: prefer WebP with JPG fallback -->
 <div align="center">
   <picture>
-    <source srcset="assets/banner.webp" type="image/webp" />
-    <img src="assets/banner.jpg" alt="Jorge Sierra - Developer Frontend y Backend" style="max-width:100%;height:auto;" />
+    <source srcset="assets/banner.webp"/>
+    <img src="assets/banner-github.png" alt="Jorge Sierra - Developer Frontend y Backend" style="max-width:100%;height:auto;" />
   </picture>
 </div>
 
