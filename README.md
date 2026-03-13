@@ -1,6 +1,19 @@
 # Hola, soy Jorge 👋🏾 👨🏾‍💻
 
-![Banner](https://user-images.githubusercontent.com/83721371/192945899-593b77ef-de23-470f-a57e-7d3e98181f24.png)
+<!-- Banner local: coloca la imagen adjunta en assets/banner.jpg -->
+<!-- La imagen del banner en las attachments debe guardarse como assets/banner.jpg -->
+<div align="center">
+</div>
+
+<!-- Optimized banner: prefer WebP with JPG fallback -->
+<div align="center">
+  <picture>
+    <source srcset="assets/banner.webp" type="image/webp" />
+    <img src="assets/banner.jpg" alt="Jorge Sierra - Developer Frontend y Backend" style="max-width:100%;height:auto;" />
+  </picture>
+</div>
+
+</div>
 
 ## 🚀 Full Stack Developer | JavaScript Specialist
 
@@ -61,7 +74,7 @@ Desarrollador Full Stack enfocado en soluciones eficientes y directas al grano. 
 ### 💻 Stack Principal
 
 - **Frontend**: JavaScript, HTML5, CSS3
-- **Backend**: PHP, Laravel  
+- **Backend**: PHP, Laravel
 - **Bases de Datos**: MySQL
 - **CMS**: WordPress, Drupal
 - **Control de Versiones**: Git
