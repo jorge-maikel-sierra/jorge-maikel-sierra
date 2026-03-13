@@ -16,6 +16,7 @@
 </div>
 
 ## 🚀 Full Stack Developer | JavaScript Specialist
+
 <!-- Banner local: coloca la imagen adjunta en assets/banner-github.png -->
 <p align="center">
   <img src="assets/banner-github.png" alt="Jorge Sierra - Developer Frontend y Backend" style="max-width:100%;height:auto;" />
