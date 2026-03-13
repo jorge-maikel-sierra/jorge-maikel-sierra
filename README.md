@@ -1,21 +1,4 @@
-# Hola, soy Jorge 👋🏾 👨🏾‍💻
-
-<!-- Banner local: coloca la imagen adjunta en assets/banner.jpg -->
-<!-- La imagen del banner en las attachments debe guardarse como assets/banner.jpg -->
-<div align="center">
-</div>
-
-<!-- Optimized banner: prefer WebP with JPG fallback -->
-<div align="center">
-  <picture>
-    <source srcset="assets/banner.webp"/>
-    <img src="assets/banner-github.png" alt="Jorge Sierra - Developer Frontend y Backend" style="max-width:100%;height:auto;" />
-  </picture>
-</div>
-
-</div>
-
-## 🚀 Full Stack Developer | JavaScript Specialist
+# 🚀 Full Stack Developer | JavaScript Specialist
 
 <!-- Banner local: coloca la imagen adjunta en assets/banner-github.png -->
 <p align="center">
